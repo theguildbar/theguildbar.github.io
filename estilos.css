@@ -1,0 +1,21 @@
+body {
+    font-family: "Exo", Medium;
+}
+
+
+@media (max-width:1000px) {
+    header img{
+        width: 35%;
+    }
+    .juego{
+        flex-direction: column;
+    }
+    .juego a{
+        margin-right: auto;
+    }
+    .juego img{
+        width:350%;
+        height: 110%;
+    }
+
+}
