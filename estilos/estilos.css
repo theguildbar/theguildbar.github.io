@@ -3,19 +3,20 @@ body {
 }
 
 
-@media (max-width:1000px) {
+
+
+@media (max-width:575px) {
     header img{
         width: 35%;
     }
-    .juego{
-        flex-direction: column;
-    }
-    .juego a{
-        margin-right: auto;
-    }
     .juego img{
-        width:350%;
-        height: 110%;
+        width: 110%;
     }
 
+   
+
+   
+   
+
 }
+
